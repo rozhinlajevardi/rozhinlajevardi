@@ -3,67 +3,142 @@
 <div align="center">
 
 <a href="https://github.com/rozhinlajevardi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=ROZHIN%20LAJEVARDI&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Web%20Designer&descAlignY=58&descSize=19&color=0:0F172A,55:172554,100:1E3A5F" width="100%" alt="Rozhin Lajevardi">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=ROZHIN%20LAJEVARDI&fontSize=52&fontColor=F8FAFC&fontAlignY=36&desc=FRONTEND%20DEVELOPER%20%C2%B7%20WEB%20DESIGNER&descAlignY=57&descSize=18&descColor=CBD5E1&color=0:020617,45:0F172A,75:172554,100:0E7490" width="100%" alt="Rozhin Lajevardi">
 </a>
 
+<p>
+  <a href="https://github.com/rozhinlajevardi"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:rozhinlajevardi@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Focus-Nuxt%20%2F%20Vue-0F172A?style=flat-square&logo=nuxt.js&logoColor=white" alt="Focus Nuxt Vue">
+  <img src="https://img.shields.io/badge/Design-Figma-111827?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+### Building interfaces that feel considered — and applications that actually work.
+
+<sub>Nuxt · Vue · JavaScript · Tailwind CSS · Figma</sub>
+
 <br>
-
-<a href="https://github.com/rozhinlajevardi"><img src="https://img.shields.io/badge/GitHub-rozhinlajevardi-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:rozhinlajevardi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=35&lines=Building+clean%2C+useful+web+experiences.;Nuxt+%C2%B7+Vue+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS;Design+%E2%86%92+Interface+%E2%86%92+Working+Product." alt="Typing introduction">
 
 </div>
 
 ---
 
-## 01 — PROFILE
+<table>
+<tr>
+<td width="58%" valign="top">
 
-> **Frontend developer and web designer focused on turning thoughtful interfaces into working products.**
+## Hey, I'm Rozhin 👋
 
-I'm **Rozhin Lajevardi**, a **Genetics graduate** building my path in modern web development.
+I'm a **Genetics graduate** building my career in **frontend development and web design**.
 
-My current focus is **Nuxt, Vue, JavaScript and Tailwind CSS** — with an emphasis on understanding how interfaces, application logic, APIs, authentication and state management work together.
+I enjoy the part where a visual idea becomes a real product — from **Figma → interface → components → APIs → working application**.
 
-I care about the details that make a product feel solid: **clear hierarchy, responsive behavior, reusable components, readable code and purposeful interaction.**
+Right now, I'm going deeper into **Nuxt, Vue, JavaScript, state management, authentication and backend fundamentals** through real projects rather than isolated exercises.
 
-My background in genetics gives me a second perspective: I’m interested in the intersection of **software, healthcare and life sciences**.
+</td>
+<td width="42%" valign="top">
 
----
+### CURRENTLY
 
-## 02 — WHAT I BUILD
+**Frontend**
+  
+Nuxt · Vue · JavaScript · Tailwind
+
+**Design**
+  
+Figma · Responsive UI · RTL
+
+**Backend**
+  
+Python · Django · REST APIs
+
+**Workflow**
+  
+Git · GitHub · VS Code
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ✦ What I care about
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
+<h3>01</h3>
+<b>Visual clarity</b><br>
+<sub>Hierarchy · spacing · typography</sub>
+</td>
+<td align="center" width="25%">
+<h3>02</h3>
+<b>Real UX</b><br>
+<sub>States · feedback · responsiveness</sub>
+</td>
+<td align="center" width="25%">
+<h3>03</h3>
+<b>Clean code</b><br>
+<sub>Components · structure · readability</sub>
+</td>
+<td align="center" width="25%">
+<h3>04</h3>
+<b>Understanding</b><br>
+<sub>Concepts · not copy-paste</sub>
+</td>
+</tr>
+</table>
 
-### Frontend Engineering
+---
 
-Building responsive interfaces with:
+## ◉ Featured project
 
-- Nuxt / Vue
-- JavaScript
-- Tailwind CSS
-- Component-based UI
-- API integration
-- Authentication flows
-- RTL interfaces
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### BodyYar
+
+**Corrective & therapeutic exercise platform**
+
+A Nuxt-based application I'm building to understand how a real product comes together — not just how individual components work.
+
+**Stack**
+
+`Nuxt 4` · `Vue 3` · `Pinia` · `Tailwind CSS` · `API` · `Auth` · `RTL`
+
+**Working on**
+
+Authentication · user flows · API communication · state management · reusable components · responsive RTL interfaces · Figma-to-code
+
+<a href="https://github.com/rozhinlajevardi/bodyyar-nuxt"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View BodyYar repository"></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="35%" valign="middle" align="center">
 
-### Interface & Web Design
+### Product mindset
 
-Turning visual ideas into usable products with:
+**Design**
 
-- Figma → code
-- Responsive layouts
-- Design systems & reusable patterns
-- WordPress / Elementor
-- Modern minimal UI
-- Interaction & visual hierarchy
+↓  
+
+**Structure**
+
+↓
+
+**Interaction**
+
+↓
+
+**Data**
+
+↓
+
+**Working product**
+
+<br>
+
+<sub>Repository currently private</sub>
 
 </td>
 </tr>
@@ -71,125 +146,54 @@ Turning visual ideas into usable products with:
 
 ---
 
-## 03 — FEATURED PROJECT
+## ◌ Stack
 
-### 🟢 BodyYar
-
-**A Nuxt-based application for corrective and therapeutic exercise workflows.**
-
-BodyYar is the main project I’m currently using to move beyond isolated tutorials and understand how a real application is structured.
-
-**Current technical direction**
-
-`Nuxt 4` · `Vue 3` · `Pinia` · `Tailwind CSS` · `API` · `Authentication` · `RTL`
-
-**What I’m working with**
-
-- Authentication and user flows
-- API-based communication
-- State management with Pinia
-- Reusable UI components
-- Responsive RTL layouts
-- Figma-to-code implementation
-- Application structure and maintainability
-
-<a href="https://github.com/rozhinlajevardi/bodyyar-nuxt"><img src="https://img.shields.io/badge/VIEW_PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View BodyYar project"></a>
-
-> **Note:** The project repository is currently private.
-
----
-
-## 04 — TECH STACK
-
-### Frontend
-
-<p><img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,tailwind&perline=6" alt="Frontend technologies"></p>
-
-### Design & Workflow
-
-<p><img src="https://skillicons.dev/icons?i=figma,wordpress,git,github,vscode&perline=5" alt="Design and workflow technologies"></p>
-
-### Currently Learning
-
-<p><img src="https://skillicons.dev/icons?i=python,django&perline=2" alt="Python and Django"></p>
-
-**Core:** HTML · CSS · JavaScript · Vue · Nuxt · Tailwind CSS  
-**Tools:** Figma · Git · GitHub · VS Code · WordPress  
-**Learning:** Python · Django · Backend fundamentals
-
----
-
-## 05 — HOW I WORK
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,tailwind,figma,git,github,vscode,python,django&perline=6" alt="Technology stack">
+</p>
 
 <div align="center">
 
-**UNDERSTAND**  
-↓  
-**DESIGN**  
-↓  
-**BUILD**  
-↓  
-**TEST & REFINE**  
-↓  
-**LEARN**
+**Frontend**  
+HTML · CSS · JavaScript · Vue · Nuxt · Tailwind CSS
+
+**Design & workflow**  
+Figma · Git · GitHub · VS Code · WordPress
+
+**Currently learning**  
+Python · Django · Backend fundamentals
 
 </div>
 
-### Understand before copying
-
-I don’t want a solution that only works once. I try to understand the concept behind it so I can adapt it to the next problem.
-
-### Design as a system
-
-A Figma screen is not the final product. I think in terms of **components, spacing, responsive states, reusable patterns and interaction**.
-
-### Learn through real problems
-
-Authentication, APIs, state, forms, errors and responsive behavior are where the deeper engineering lessons appear.
-
-### Keep the code understandable
-
-My goal is not to make code look clever. It’s to make it **clear enough to debug, extend and improve**.
-
 ---
 
-## 06 — CURRENTLY FOCUSING ON
-
-| Area | Focus |
-|:--|:--|
-| **Nuxt / Vue** | Application architecture · routing · components · APIs · state |
-| **JavaScript** | Core concepts · async code · objects · functions · modern syntax |
-| **UI Engineering** | Responsive design · Tailwind · RTL · Figma implementation |
-| **Backend** | Python · Django · authentication · databases · REST APIs |
-| **Git / GitHub** | Version control · repositories · commits · professional workflow |
-
----
-
-## 07 — LEARNING PATH
+## ↗ How I build
 
 <div align="center">
 
-`JavaScript` → `Vue` → `Nuxt` → `APIs + State` → `Django / Backend` → `Full-Stack Development`
+**UNDERSTAND** → **DESIGN** → **BUILD** → **TEST** → **REFINE**
 
 </div>
 
-I’m especially interested in the point where **good interface design meets real application architecture**.
+I don't want to memorize solutions. I want to understand **why** they work well enough to use the idea in a new problem.
+
+That means paying attention to component boundaries, responsive behavior, loading and error states, API contracts, accessibility and maintainability — not only the final screenshot.
 
 ---
 
-## 08 — BEYOND THE INTERFACE
+## ⌁ Learning path
 
-My academic background is in **Genetics**.
+<div align="center">
 
-That gives me a long-term interest in building technology around:
+`JavaScript` → `Vue` → `Nuxt` → `APIs + State` → `Django` → `Full-Stack`
 
-**Healthcare · Genetics · Biomedical Data · AI-assisted Applications · Life Sciences**
+</div>
 
-I see software development as a way to combine my scientific background with practical product engineering.
+My long-term interest sits at the intersection of **software, healthcare, genetics and biomedical data** — combining my scientific background with practical product development.
 
 ---
 
-## 09 — GITHUB ACTIVITY
+## GitHub
 
 <div align="center">
 
@@ -198,33 +202,26 @@ I see software development as a way to combine my scientific background with pra
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rozhinlajevardi&bg_color=0d1117&color=58a6ff&line=38bdf8&point=ffffff&area=true&hide_border=true&radius=10" alt="GitHub activity graph">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rozhinlajevardi&bg_color=0d1117&color=58a6ff&line=22d3ee&point=ffffff&area=true&hide_border=true&radius=10" alt="GitHub activity graph">
 
 </div>
 
 ---
 
-## 10 — PRINCIPLE
-
 <div align="center">
 
-### **Don’t just make it work. Understand why it works.**
+### “Don't just make it work. Understand why it works.”
 
-<sub>Build with intention · Learn deeply · Improve continuously</sub>
+<sub>Frontend · Design · Technology · Life Sciences</sub>
 
 <br><br>
 
-<a href="https://github.com/rozhinlajevardi"><img src="https://img.shields.io/badge/GITHUB-ROZHINLAJEVARDI-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+<a href="https://github.com/rozhinlajevardi"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
 &nbsp;
-<a href="mailto:rozhinlajevardi@gmail.com"><img src="https://img.shields.io/badge/LET%27S_BUILD-SOMETHING-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"></a>
+<a href="mailto:rozhinlajevardi@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"></a>
 
 </div>
 
-<br>
-
-<p align="center"><sub>Frontend · Design · Technology · Life Sciences</sub></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1E3A5F,100:0F172A">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:CBD5E1,100:EEF2FF" width="100%" alt="">
-</picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0E7490,45:172554,100:020617" width="100%" alt="">
+</p>
