@@ -114,8 +114,6 @@ My background in genetics also keeps me interested in the intersection of **tech
 <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E" />
 <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=44B78B" />
 
 </div>
 
