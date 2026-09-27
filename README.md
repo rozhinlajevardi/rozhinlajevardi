@@ -100,7 +100,7 @@ My background in genetics also keeps me interested in the intersection of **tech
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,tailwind,wordpress,figma,git,github,vscode,python,django&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,tailwind,wordpress,figma,git,github,vscode,&perline=7" />
 
 <br><br>
 
