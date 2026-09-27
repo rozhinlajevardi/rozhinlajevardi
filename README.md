@@ -37,9 +37,6 @@ Nuxt · Vue · JavaScript · Tailwind
   
 Figma · Responsive UI · RTL
 
-**Backend**
-  
-Python · Django · REST APIs
 
 **Workflow**
   
