@@ -1,0 +1,79 @@
+<svg width="1600" height="620" viewBox="0 0 1600 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="620" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#F8F8F5"/>
+    <stop offset="0.58" stop-color="#F2F3EF"/>
+    <stop offset="1" stop-color="#E9ECF3"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="1050" y1="90" x2="1510" y2="540" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#625BFF"/>
+    <stop offset="1" stop-color="#24C8A5"/>
+  </linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+    <feDropShadow dx="0" dy="22" stdDeviation="26" flood-color="#111827" flood-opacity=".12"/>
+  </filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" stroke="#111827" stroke-opacity=".055"/>
+  </pattern>
+</defs>
+
+<rect width="1600" height="620" rx="28" fill="url(#bg)"/>
+<rect width="1600" height="620" rx="28" fill="url(#grid)"/>
+
+<circle cx="1375" cy="105" r="150" fill="#625BFF" fill-opacity=".07"/>
+<circle cx="1510" cy="470" r="210" fill="#24C8A5" fill-opacity=".07"/>
+
+<path d="M0 540C280 500 390 570 650 535C850 508 1000 420 1220 445C1380 463 1490 515 1600 500" stroke="#111827" stroke-opacity=".08" stroke-width="2"/>
+
+<g transform="translate(92 86)">
+  <rect x="0" y="0" width="8" height="8" rx="2" fill="#625BFF"/>
+  <text x="25" y="9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#4B5563">FRONTEND · INTERFACE · PRODUCT</text>
+
+  <text x="0" y="125" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-3" fill="#111318">ROZHIN</text>
+  <text x="0" y="205" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-3" fill="#111318">LAJEVARDI</text>
+
+  <rect x="0" y="244" width="92" height="4" rx="2" fill="#625BFF"/>
+  <text x="0" y="292" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#30343B">Frontend Developer · Web Designer</text>
+  <text x="0" y="332" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#69707C">I turn thoughtful interfaces into clear, responsive, working products.</text>
+
+  <g transform="translate(0 382)">
+    <rect width="118" height="36" rx="18" fill="#111318"/>
+    <text x="59" y="23" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#fff">NUXT · VUE</text>
+    <rect x="130" width="135" height="36" rx="18" fill="#E4E6FF"/>
+    <text x="197.5" y="23" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#4540A8">UI · UX · FIGMA</text>
+    <rect x="277" width="116" height="36" rx="18" fill="#D9F8EE"/>
+    <text x="335" y="23" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#147A65">JAVASCRIPT</text>
+  </g>
+</g>
+
+<g filter="url(#shadow)" transform="translate(990 94) rotate(3 245 210)">
+  <rect width="500" height="410" rx="24" fill="#FFFFFF"/>
+  <rect width="500" height="52" rx="24" fill="#17191F"/>
+  <rect y="27" width="500" height="25" fill="#17191F"/>
+  <circle cx="25" cy="26" r="5" fill="#FF6B6B"/>
+  <circle cx="43" cy="26" r="5" fill="#FFD166"/>
+  <circle cx="61" cy="26" r="5" fill="#63D9B3"/>
+  <rect x="88" y="17" width="180" height="18" rx="9" fill="#2A2D35"/>
+  <rect x="28" y="86" width="285" height="13" rx="6.5" fill="#111318" fill-opacity=".88"/>
+  <rect x="28" y="112" width="210" height="9" rx="4.5" fill="#111318" fill-opacity=".15"/>
+  <rect x="28" y="155" width="444" height="1" fill="#111318" fill-opacity=".08"/>
+  <rect x="28" y="184" width="205" height="150" rx="16" fill="#F1F2F6"/>
+  <rect x="251" y="184" width="221" height="70" rx="16" fill="url(#accent)" fill-opacity=".92"/>
+  <rect x="251" y="270" width="105" height="64" rx="16" fill="#111318"/>
+  <rect x="367" y="270" width="105" height="64" rx="16" fill="#E9EAFF"/>
+  <circle cx="391" cy="214" r="14" fill="#fff" fill-opacity=".85"/>
+  <path d="M384 214L389 219L399 207" stroke="#625BFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="50" y="204" width="120" height="12" rx="6" fill="#111318" fill-opacity=".13"/>
+  <rect x="50" y="228" width="145" height="8" rx="4" fill="#111318" fill-opacity=".07"/>
+  <rect x="50" y="254" width="110" height="8" rx="4" fill="#111318" fill-opacity=".07"/>
+  <rect x="28" y="356" width="150" height="18" rx="9" fill="#625BFF" fill-opacity=".13"/>
+  <rect x="190" y="356" width="105" height="18" rx="9" fill="#24C8A5" fill-opacity=".15"/>
+</g>
+
+<g transform="translate(1370 460) rotate(-12)">
+  <path d="M0 0L48 78L60 48L88 40L0 0Z" fill="#111318"/>
+  <path d="M48 78L56 54L69 72L48 78Z" fill="#625BFF"/>
+</g>
+
+<text x="1480" y="580" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#6B7280">DESIGN → CODE → PRODUCT</text>
+</svg>
