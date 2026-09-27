@@ -135,7 +135,7 @@ Authentication · user flows · API communication · state management · reusabl
 ## ◌ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,tailwind,figma,git,github,vscode,python,django&perline=6" alt="Technology stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,tailwind,figma,git,github,vscode&perline=6" alt="Technology stack">
 </p>
 
 <div align="center">
