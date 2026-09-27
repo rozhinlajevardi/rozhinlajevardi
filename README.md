@@ -1,23 +1,12 @@
-<!-- Profile README · Rozhin Lajevardi -->
-
 <div align="center">
 
-<a href="https://github.com/rozhinlajevardi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=ROZHIN%20LAJEVARDI&fontSize=52&fontColor=F8FAFC&fontAlignY=36&desc=FRONTEND%20DEVELOPER%20%C2%B7%20WEB%20DESIGNER&descAlignY=57&descSize=18&descColor=CBD5E1&color=0:020617,45:0F172A,75:172554,100:0E7490" width="100%" alt="Rozhin Lajevardi">
-</a>
-
-<p>
-  <a href="https://github.com/rozhinlajevardi"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:rozhinlajevardi@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Focus-Nuxt%20%2F%20Vue-0F172A?style=flat-square&logo=nuxt.js&logoColor=white" alt="Focus Nuxt Vue">
-  <img src="https://img.shields.io/badge/Design-Figma-111827?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-</p>
-
-### Building interfaces that feel considered — and applications that actually work.
-
-<sub>Nuxt · Vue · JavaScript · Tailwind CSS · Figma</sub>
+<img src="https://raw.githubusercontent.com/rozhinlajevardi/rozhinlajevardi/main/assets/profile-hero.svg" width="100%" alt="Rozhin Lajevardi — Frontend Developer and Web Designer">
 
 <br>
+
+<a href="https://github.com/rozhinlajevardi"><img src="https://img.shields.io/badge/GITHUB-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+&nbsp;
+<a href="mailto:rozhinlajevardi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
