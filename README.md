@@ -146,8 +146,7 @@ HTML · CSS · JavaScript · Vue · Nuxt · Tailwind CSS
 **Design & workflow**  
 Figma · Git · GitHub · VS Code · WordPress
 
-**Currently learning**  
-Python · Django · Backend fundamentals
+
 
 </div>
 
